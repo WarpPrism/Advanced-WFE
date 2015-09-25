@@ -1,0 +1,16 @@
+#wrapper {
+    width: 100%;
+}
+#canvas {
+    border: 1px solid #aaa;
+    /*margin-left: 50%;
+    -webkit-transform: translateX(-50%);
+    -moz-transform: translateX(-50%);
+    -ms-transform: translateX(-50%);
+    -o-transform: translateX(-50%);
+    transform: translateX(-50%);
+    margin-top: 10px;
+    margin-bottom: 10px;*/
+    width: 100%;
+    margin: auto;
+}

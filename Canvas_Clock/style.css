@@ -1,0 +1,15 @@
+body {
+    background-color: gainsboro;
+}
+#canvas {
+    /*border: 1px solid burlywood;*/
+    margin-left: 50%;
+    margin-top: 30px;
+    -webkit-transform: translateX(-50%);
+    -moz-transform: translateX(-50%);
+    -ms-transform: translateX(-50%);
+    -o-transform: translateX(-50%);
+    transform: translateX(-50%);
+    /* width: 100%;
+    margin: auto; */
+}
